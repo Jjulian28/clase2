@@ -39,7 +39,10 @@ fun main() {
     println("EL VALOR CONVERTIDO ES: ${convertir} ")
 
 
-
+    println("repasando comandos de git")
+    println("repasando comandos de git")
+    println("repasando comandos de git")
+    println("repasando comandos de git")
 
 
 
